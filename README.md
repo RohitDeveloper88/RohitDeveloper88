@@ -14,11 +14,6 @@
 - 🌱 I’m currently learning **Fronted Development**
 
 - 💬 Ask me about **Fronted Development**
-<div align="right" >
-  <img src="- https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Animated GIF">
-
-</div>
-
 
 - 📫 How to reach me **rohitkr12422@gmail.com**
 
