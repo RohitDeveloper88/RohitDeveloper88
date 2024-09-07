@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scripting Sensei</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center" >
- <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscreen-monitor-closeup-26tn33aiTi1jkl6H6&psig=AOvVaw3bBHqtHwEdYWaTxC3CmGA1&ust=1725805739787000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCavMWFsYgDFQAAAAAdAAAAABAQ">
 
 </div>
 
